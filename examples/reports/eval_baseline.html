@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>pev evaluation: baseline</title>
+<style>
+body{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;margin:0;background:#0f1420;color:#e6e9ef}.wrap{max-width:1000px;margin:0 auto;padding:28px}h1{font-size:22px;margin:0 0 4px}h2{font-size:16px;margin:28px 0 8px;color:#9fb0c3}.sub{color:#8795a8;font-size:13px;margin-bottom:8px}.cards{display:flex;gap:12px;flex-wrap:wrap;margin:12px 0}.card{background:#1a2234;border:1px solid #2a3550;border-radius:10px;padding:14px 18px;min-width:120px}.card .k{font-size:12px;color:#8795a8}.card .v{font-size:24px;font-weight:600}table{border-collapse:collapse;width:100%;font-size:13px;margin-top:6px}th,td{padding:6px 10px;text-align:right;border-bottom:1px solid #263048}th{color:#9fb0c3;text-align:right}td:first-child,th:first-child{text-align:left}tr:hover td{background:#19233a}.tag{color:#8795a8}</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Detection evaluation &mdash; baseline</h1>
+<div class="sub">Synthetic WOD-shaped dataset &middot; IoU 0.50 &middot; 6 scenes &middot; 24 frames &middot; 4 threads</div>
+<div class="cards"><div class="card"><div class="k">AP</div><div class="v">0.681</div></div><div class="card"><div class="k">APH</div><div class="v">0.667</div></div><div class="card"><div class="k">Precision</div><div class="v">0.809</div></div><div class="card"><div class="k">Recall</div><div class="v">0.774</div></div><div class="card"><div class="k">F1</div><div class="v">0.791</div></div><div class="card"><div class="k">p95 ms</div><div class="v">28.5</div></div></div>
+<h2>AP / APH by type</h2>
+<table><tr><th>type</th><th>numGT</th><th>AP</th><th>APH</th><th>prec</th><th>recall</th><th>F1</th></tr>
+<tr><td>TYPE_VEHICLE</td><td>154</td><td>0.942</td><td>0.922</td><td>0.993</td><td>0.942</td><td>0.967</td></tr>
+<tr><td>TYPE_PEDESTRIAN</td><td>49</td><td>0.344</td><td>0.337</td><td>0.522</td><td>0.490</td><td>0.505</td></tr>
+<tr><td>TYPE_CYCLIST</td><td>37</td><td>0.725</td><td>0.714</td><td>0.861</td><td>0.838</td><td>0.849</td></tr>
+<tr><td>TYPE_SIGN</td><td>34</td><td>0.175</td><td>0.171</td><td>0.353</td><td>0.353</td><td>0.353</td></tr>
+</table>
+<h2>AP / APH by type &times; range</h2>
+<table><tr><th>type</th><th>range</th><th>numGT</th><th>AP</th><th>APH</th><th>recall</th></tr>
+<tr><td>TYPE_VEHICLE</td><td class="tag">[0,30)m</td><td>60</td><td>0.933</td><td>0.916</td><td>0.933</td></tr>
+<tr><td>TYPE_VEHICLE</td><td class="tag">[30,50)m</td><td>51</td><td>0.961</td><td>0.941</td><td>0.961</td></tr>
+<tr><td>TYPE_VEHICLE</td><td class="tag">[50,inf)m</td><td>43</td><td>0.930</td><td>0.911</td><td>0.930</td></tr>
+<tr><td>TYPE_PEDESTRIAN</td><td class="tag">[0,30)m</td><td>20</td><td>0.597</td><td>0.585</td><td>0.650</td></tr>
+<tr><td>TYPE_PEDESTRIAN</td><td class="tag">[30,50)m</td><td>13</td><td>0.353</td><td>0.344</td><td>0.538</td></tr>
+<tr><td>TYPE_PEDESTRIAN</td><td class="tag">[50,inf)m</td><td>16</td><td>0.083</td><td>0.082</td><td>0.250</td></tr>
+<tr><td>TYPE_CYCLIST</td><td class="tag">[0,30)m</td><td>10</td><td>0.810</td><td>0.798</td><td>0.900</td></tr>
+<tr><td>TYPE_CYCLIST</td><td class="tag">[30,50)m</td><td>16</td><td>0.613</td><td>0.605</td><td>0.750</td></tr>
+<tr><td>TYPE_CYCLIST</td><td class="tag">[50,inf)m</td><td>11</td><td>0.868</td><td>0.850</td><td>0.909</td></tr>
+<tr><td>TYPE_SIGN</td><td class="tag">[0,30)m</td><td>12</td><td>0.333</td><td>0.326</td><td>0.500</td></tr>
+<tr><td>TYPE_SIGN</td><td class="tag">[30,50)m</td><td>12</td><td>0.214</td><td>0.209</td><td>0.333</td></tr>
+<tr><td>TYPE_SIGN</td><td class="tag">[50,inf)m</td><td>10</td><td>0.072</td><td>0.071</td><td>0.200</td></tr>
+</table>
+<p class="sub">Bundled data is synthetic and WOD-shaped (not the real Waymo Open Dataset). Metrics and code are real.</p>
+</div>
+</body>
+</html>

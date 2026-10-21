@@ -1,0 +1,26 @@
+# Build output
+build/
+*.o
+*.obj
+*.a
+*.exe
+
+# Generated datasets and reports (the committed copies live under examples/).
+# These patterns are root-anchored so the examples/ tree is still tracked.
+/data/
+/reports/
+/dashboard.html
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+
+# Editor / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
+compile_commands.json

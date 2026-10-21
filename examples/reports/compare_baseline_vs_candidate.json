@@ -1,0 +1,1373 @@
+{
+  "aggregate": {
+    "ap": {
+      "baseline": 0.6811597904,
+      "candidate": 0.6445365066,
+      "delta": -0.03662328377
+    },
+    "aph": {
+      "baseline": 0.6674097696,
+      "candidate": 0.623087109,
+      "delta": -0.04432266057
+    },
+    "p95_ms": {
+      "baseline": 28.47,
+      "candidate": 48.4,
+      "delta": 19.93
+    },
+    "precision": {
+      "baseline": 0.8091603053,
+      "candidate": 0.8007968127,
+      "delta": -0.008363492595
+    },
+    "recall": {
+      "baseline": 0.7737226277,
+      "candidate": 0.7335766423,
+      "delta": -0.0401459854
+    }
+  },
+  "baseline_run": "baseline",
+  "candidate_run": "candidate",
+  "config": {
+    "latency_tolerance": 0.15,
+    "metric_tolerance": 0.03,
+    "min_support": 8,
+    "top_k": 15
+  },
+  "findings": [
+    {
+      "ap": {
+        "baseline": 0.7575757576,
+        "candidate": 0.5333333333,
+        "delta": -0.2242424242
+      },
+      "aph": {
+        "baseline": 0.7457770717,
+        "candidate": 0.4721140372,
+        "delta": -0.2736630345
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_CYCLIST @ [30,50)m, LEVEL_1, night",
+      "latency_p95": {
+        "baseline": 28.47,
+        "candidate": 48.4,
+        "delta": 19.93
+      },
+      "precision": {
+        "baseline": 0.9090909091,
+        "candidate": 0.8,
+        "delta": -0.1090909091
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.8333333333,
+        "candidate": 0.6666666667,
+        "delta": -0.1666666667
+      },
+      "severity": 0.5365401892,
+      "support": 12,
+      "tag": "night",
+      "type": "TYPE_CYCLIST"
+    },
+    {
+      "ap": {
+        "baseline": 0.9428571429,
+        "candidate": 0.8857142857,
+        "delta": -0.05714285714
+      },
+      "aph": {
+        "baseline": 0.9220915811,
+        "candidate": 0.8659695817,
+        "delta": -0.05612199948
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [30,50)m, LEVEL_1, low_visibility",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.9428571429,
+        "candidate": 0.8857142857,
+        "delta": -0.05714285714
+      },
+      "severity": 0.5151555807,
+      "support": 35,
+      "tag": "low_visibility",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.9428571429,
+        "candidate": 0.8857142857,
+        "delta": -0.05714285714
+      },
+      "aph": {
+        "baseline": 0.9220915811,
+        "candidate": 0.8659695817,
+        "delta": -0.05612199948
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [30,50)m, LEVEL_1, urban",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.9428571429,
+        "candidate": 0.8857142857,
+        "delta": -0.05714285714
+      },
+      "severity": 0.5151555807,
+      "support": 35,
+      "tag": "urban",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.6125,
+        "candidate": 0.4803571429,
+        "delta": -0.1321428571
+      },
+      "aph": {
+        "baseline": 0.6049567026,
+        "candidate": 0.4366214648,
+        "delta": -0.1683352378
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_CYCLIST @ [30,50)m, LEVEL_1, low_visibility",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.8,
+        "candidate": 0.7142857143,
+        "delta": -0.08571428571
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.75,
+        "candidate": 0.625,
+        "delta": -0.125
+      },
+      "severity": 0.5106776624,
+      "support": 16,
+      "tag": "low_visibility",
+      "type": "TYPE_CYCLIST"
+    },
+    {
+      "ap": {
+        "baseline": 0.6125,
+        "candidate": 0.4803571429,
+        "delta": -0.1321428571
+      },
+      "aph": {
+        "baseline": 0.6049567026,
+        "candidate": 0.4366214648,
+        "delta": -0.1683352378
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_CYCLIST @ [30,50)m, LEVEL_1, urban",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.8,
+        "candidate": 0.7142857143,
+        "delta": -0.08571428571
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.75,
+        "candidate": 0.625,
+        "delta": -0.125
+      },
+      "severity": 0.5106776624,
+      "support": 16,
+      "tag": "urban",
+      "type": "TYPE_CYCLIST"
+    },
+    {
+      "ap": {
+        "baseline": 0.8571428571,
+        "candidate": 0.7142857143,
+        "delta": -0.1428571429
+      },
+      "aph": {
+        "baseline": 0.8398630903,
+        "candidate": 0.6996149863,
+        "delta": -0.140248104
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [30,50)m, LEVEL_1, night",
+      "latency_p95": {
+        "baseline": 28.47,
+        "candidate": 48.4,
+        "delta": 19.93
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.8571428571,
+        "candidate": 0.7142857143,
+        "delta": -0.1428571429
+      },
+      "severity": 0.4796132694,
+      "support": 14,
+      "tag": "night",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.9310344828,
+        "candidate": 0.8965517241,
+        "delta": -0.03448275862
+      },
+      "aph": {
+        "baseline": 0.9149325482,
+        "candidate": 0.8804338382,
+        "delta": -0.03449870999
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [0,30)m, LEVEL_1, low_visibility",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.9642857143,
+        "candidate": 0.962962963,
+        "delta": -0.001322751323
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.9310344828,
+        "candidate": 0.8965517241,
+        "delta": -0.03448275862
+      },
+      "severity": 0.4594758909,
+      "support": 29,
+      "tag": "low_visibility",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.9310344828,
+        "candidate": 0.8965517241,
+        "delta": -0.03448275862
+      },
+      "aph": {
+        "baseline": 0.9149325482,
+        "candidate": 0.8804338382,
+        "delta": -0.03449870999
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [0,30)m, LEVEL_1, urban",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.9642857143,
+        "candidate": 0.962962963,
+        "delta": -0.001322751323
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.9310344828,
+        "candidate": 0.8965517241,
+        "delta": -0.03448275862
+      },
+      "severity": 0.4594758909,
+      "support": 29,
+      "tag": "urban",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.9230769231,
+        "candidate": 0.9230769231,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.9025526405,
+        "candidate": 0.9025526405,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [50,inf)m, LEVEL_1, low_visibility",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 0.9230769231,
+        "candidate": 0.9230769231,
+        "delta": 0
+      },
+      "severity": 0.4484008679,
+      "support": 39,
+      "tag": "low_visibility",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.9230769231,
+        "candidate": 0.9230769231,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.9025526405,
+        "candidate": 0.9025526405,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [50,inf)m, LEVEL_1, urban",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 0.9230769231,
+        "candidate": 0.9230769231,
+        "delta": 0
+      },
+      "severity": 0.4484008679,
+      "support": 39,
+      "tag": "urban",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.8888888889,
+        "candidate": 0.7777777778,
+        "delta": -0.1111111111
+      },
+      "aph": {
+        "baseline": 0.8766493348,
+        "candidate": 0.7651972549,
+        "delta": -0.1114520799
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [0,30)m, LEVEL_1, night",
+      "latency_p95": {
+        "baseline": 28.47,
+        "candidate": 48.4,
+        "delta": 19.93
+      },
+      "precision": {
+        "baseline": 0.8888888889,
+        "candidate": 0.875,
+        "delta": -0.01388888889
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.8888888889,
+        "candidate": 0.7777777778,
+        "delta": -0.1111111111
+      },
+      "severity": 0.3815052294,
+      "support": 9,
+      "tag": "night",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.85,
+        "candidate": 0.85,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.8300699236,
+        "candidate": 0.8300699236,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [50,inf)m, LEVEL_1, night",
+      "latency_p95": {
+        "baseline": 28.47,
+        "candidate": 48.4,
+        "delta": 19.93
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 0.85,
+        "candidate": 0.85,
+        "delta": 0
+      },
+      "severity": 0.3702399795,
+      "support": 20,
+      "tag": "night",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.04166666667,
+        "candidate": 0.01666666667,
+        "delta": -0.025
+      },
+      "aph": {
+        "baseline": 0.04028308881,
+        "candidate": 0.01594674495,
+        "delta": -0.02433634386
+      },
+      "difficulty": "LEVEL_2",
+      "is_regression": true,
+      "label": "TYPE_PEDESTRIAN @ [50,inf)m, LEVEL_2, low_visibility",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.2,
+        "candidate": 0.1666666667,
+        "delta": -0.03333333333
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 0.1666666667,
+        "candidate": 0.08333333333,
+        "delta": -0.08333333333
+      },
+      "severity": 0.3695779116,
+      "support": 12,
+      "tag": "low_visibility",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 0.04166666667,
+        "candidate": 0.01666666667,
+        "delta": -0.025
+      },
+      "aph": {
+        "baseline": 0.04028308881,
+        "candidate": 0.01594674495,
+        "delta": -0.02433634386
+      },
+      "difficulty": "LEVEL_2",
+      "is_regression": true,
+      "label": "TYPE_PEDESTRIAN @ [50,inf)m, LEVEL_2, urban",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.2,
+        "candidate": 0.1666666667,
+        "delta": -0.03333333333
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 0.1666666667,
+        "candidate": 0.08333333333,
+        "delta": -0.08333333333
+      },
+      "severity": 0.3695779116,
+      "support": 12,
+      "tag": "urban",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 0.01428571429,
+        "candidate": 0,
+        "delta": -0.01428571429
+      },
+      "aph": {
+        "baseline": 0.01395479203,
+        "candidate": 0,
+        "delta": -0.01395479203
+      },
+      "difficulty": "LEVEL_2",
+      "is_regression": true,
+      "label": "TYPE_PEDESTRIAN @ [50,inf)m, LEVEL_2, night",
+      "latency_p95": {
+        "baseline": 28.47,
+        "candidate": 48.4,
+        "delta": 19.93
+      },
+      "precision": {
+        "baseline": 0.125,
+        "candidate": 0,
+        "delta": -0.125
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 0.1,
+        "candidate": 0,
+        "delta": -0.1
+      },
+      "severity": 0.3580759439,
+      "support": 10,
+      "tag": "night",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.976674014,
+        "candidate": 0.976674014,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [30,50)m, LEVEL_1, rain",
+      "latency_p95": {
+        "baseline": 15.54,
+        "candidate": 26.42,
+        "delta": 10.88
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "severity": 0.3445890416,
+      "support": 16,
+      "tag": "rain",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.675,
+        "candidate": 0.675,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.6640582389,
+        "candidate": 0.6640582389,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_PEDESTRIAN @ [0,30)m, LEVEL_1, low_visibility",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.75,
+        "candidate": 0.75,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.75,
+        "candidate": 0.75,
+        "delta": 0
+      },
+      "severity": 0.3117818113,
+      "support": 12,
+      "tag": "low_visibility",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 0.675,
+        "candidate": 0.675,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.6640582389,
+        "candidate": 0.6640582389,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_PEDESTRIAN @ [0,30)m, LEVEL_1, urban",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.75,
+        "candidate": 0.75,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.75,
+        "candidate": 0.75,
+        "delta": 0
+      },
+      "severity": 0.3117818113,
+      "support": 12,
+      "tag": "urban",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.9809313022,
+        "candidate": 0.9809313022,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [50,inf)m, LEVEL_1, fog",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "severity": 0.3020522389,
+      "support": 11,
+      "tag": "fog",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.9790595035,
+        "candidate": 0.9790595035,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [0,30)m, LEVEL_1, rain",
+      "latency_p95": {
+        "baseline": 15.54,
+        "candidate": 26.42,
+        "delta": 10.88
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "severity": 0.2916435628,
+      "support": 10,
+      "tag": "rain",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.9,
+        "candidate": 0.9,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.8857037872,
+        "candidate": 0.8857037872,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [0,30)m, LEVEL_1, fog",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.9,
+        "candidate": 0.9,
+        "delta": 0
+      },
+      "severity": 0.2914755916,
+      "support": 10,
+      "tag": "fog",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.6428571429,
+        "candidate": 0.6428571429,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.6302733374,
+        "candidate": 0.6302733374,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_PEDESTRIAN @ [0,30)m, LEVEL_1, rain",
+      "latency_p95": {
+        "baseline": 15.54,
+        "candidate": 26.42,
+        "delta": 10.88
+      },
+      "precision": {
+        "baseline": 0.75,
+        "candidate": 0.75,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.75,
+        "candidate": 0.75,
+        "delta": 0
+      },
+      "severity": 0.2672370271,
+      "support": 8,
+      "tag": "rain",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.9771911355,
+        "candidate": 0.9771911355,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_VEHICLE @ [50,inf)m, LEVEL_1, rain",
+      "latency_p95": {
+        "baseline": 15.54,
+        "candidate": 26.42,
+        "delta": 10.88
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "severity": 0.2672370271,
+      "support": 8,
+      "tag": "rain",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.5625,
+        "candidate": 0.5625,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.5504377617,
+        "candidate": 0.5504377617,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_PEDESTRIAN @ [30,50)m, LEVEL_1, low_visibility",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.6666666667,
+        "candidate": 0.6666666667,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.75,
+        "candidate": 0.75,
+        "delta": 0
+      },
+      "severity": 0.2670831128,
+      "support": 8,
+      "tag": "low_visibility",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 0.5625,
+        "candidate": 0.5625,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.5504377617,
+        "candidate": 0.5504377617,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": true,
+      "label": "TYPE_PEDESTRIAN @ [30,50)m, LEVEL_1, urban",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.6666666667,
+        "candidate": 0.6666666667,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.75,
+        "candidate": 0.75,
+        "delta": 0
+      },
+      "severity": 0.2670831128,
+      "support": 8,
+      "tag": "urban",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 0.09821428571,
+        "candidate": 0.09821428571,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.09660751314,
+        "candidate": 0.09660751314,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_2",
+      "is_regression": true,
+      "label": "TYPE_SIGN @ [50,inf)m, LEVEL_2, low_visibility",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.2857142857,
+        "candidate": 0.2857142857,
+        "delta": 0
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 0.25,
+        "candidate": 0.25,
+        "delta": 0
+      },
+      "severity": 0.2670831128,
+      "support": 8,
+      "tag": "low_visibility",
+      "type": "TYPE_SIGN"
+    },
+    {
+      "ap": {
+        "baseline": 0.09821428571,
+        "candidate": 0.09821428571,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.09660751314,
+        "candidate": 0.09660751314,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_2",
+      "is_regression": true,
+      "label": "TYPE_SIGN @ [50,inf)m, LEVEL_2, urban",
+      "latency_p95": {
+        "baseline": 29.14,
+        "candidate": 49.53,
+        "delta": 20.39
+      },
+      "precision": {
+        "baseline": 0.2857142857,
+        "candidate": 0.2857142857,
+        "delta": 0
+      },
+      "range": "[50,inf)m",
+      "recall": {
+        "baseline": 0.25,
+        "candidate": 0.25,
+        "delta": 0
+      },
+      "severity": 0.2670831128,
+      "support": 8,
+      "tag": "urban",
+      "type": "TYPE_SIGN"
+    },
+    {
+      "ap": {
+        "baseline": 0.5,
+        "candidate": 0.5,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.4844931176,
+        "candidate": 0.4844931176,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_PEDESTRIAN @ [0,30)m, LEVEL_1, day_clear",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 0.5714285714,
+        "candidate": 0.5714285714,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.5,
+        "candidate": 0.5,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 8,
+      "tag": "day_clear",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 0.5,
+        "candidate": 0.5,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.4844931176,
+        "candidate": 0.4844931176,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_PEDESTRIAN @ [0,30)m, LEVEL_1, highway",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 0.5714285714,
+        "candidate": 0.5714285714,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.5,
+        "candidate": 0.5,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 8,
+      "tag": "highway",
+      "type": "TYPE_PEDESTRIAN"
+    },
+    {
+      "ap": {
+        "baseline": 0.375,
+        "candidate": 0.375,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.3683942232,
+        "candidate": 0.3683942232,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_SIGN @ [0,30)m, LEVEL_1, day_clear",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 0.5,
+        "candidate": 0.5,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.5,
+        "candidate": 0.5,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 8,
+      "tag": "day_clear",
+      "type": "TYPE_SIGN"
+    },
+    {
+      "ap": {
+        "baseline": 0.375,
+        "candidate": 0.375,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.3683942232,
+        "candidate": 0.3683942232,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_SIGN @ [0,30)m, LEVEL_1, highway",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 0.5,
+        "candidate": 0.5,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.5,
+        "candidate": 0.5,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 8,
+      "tag": "highway",
+      "type": "TYPE_SIGN"
+    },
+    {
+      "ap": {
+        "baseline": 0.2410714286,
+        "candidate": 0.2410714286,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.2346209772,
+        "candidate": 0.2346209772,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_SIGN @ [30,50)m, LEVEL_1, day_clear",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 0.375,
+        "candidate": 0.375,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.375,
+        "candidate": 0.375,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 8,
+      "tag": "day_clear",
+      "type": "TYPE_SIGN"
+    },
+    {
+      "ap": {
+        "baseline": 0.2410714286,
+        "candidate": 0.2410714286,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.2346209772,
+        "candidate": 0.2346209772,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_SIGN @ [30,50)m, LEVEL_1, highway",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 0.375,
+        "candidate": 0.375,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 0.375,
+        "candidate": 0.375,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 8,
+      "tag": "highway",
+      "type": "TYPE_SIGN"
+    },
+    {
+      "ap": {
+        "baseline": 0.935483871,
+        "candidate": 0.935483871,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.9179622306,
+        "candidate": 0.9179622306,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_VEHICLE @ [0,30)m, LEVEL_1, day_clear",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.935483871,
+        "candidate": 0.935483871,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 31,
+      "tag": "day_clear",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.875,
+        "candidate": 0.875,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.8606437728,
+        "candidate": 0.8606437728,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_VEHICLE @ [0,30)m, LEVEL_1, highway",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.875,
+        "candidate": 0.875,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 8,
+      "tag": "highway",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 0.9565217391,
+        "candidate": 0.9565217391,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.938284762,
+        "candidate": 0.938284762,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_VEHICLE @ [0,30)m, LEVEL_1, suburban",
+      "latency_p95": {
+        "baseline": 13.5,
+        "candidate": 13.5,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[0,30)m",
+      "recall": {
+        "baseline": 0.9565217391,
+        "candidate": 0.9565217391,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 23,
+      "tag": "suburban",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.9830231979,
+        "candidate": 0.9830231979,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_VEHICLE @ [30,50)m, LEVEL_1, day_clear",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 16,
+      "tag": "day_clear",
+      "type": "TYPE_VEHICLE"
+    },
+    {
+      "ap": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "aph": {
+        "baseline": 0.9861571968,
+        "candidate": 0.9861571968,
+        "delta": 0
+      },
+      "difficulty": "LEVEL_1",
+      "is_regression": false,
+      "label": "TYPE_VEHICLE @ [30,50)m, LEVEL_1, highway",
+      "latency_p95": {
+        "baseline": 15.17,
+        "candidate": 15.17,
+        "delta": 0
+      },
+      "precision": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "range": "[30,50)m",
+      "recall": {
+        "baseline": 1,
+        "candidate": 1,
+        "delta": 0
+      },
+      "severity": 0,
+      "support": 10,
+      "tag": "highway",
+      "type": "TYPE_VEHICLE"
+    }
+  ],
+  "iou_threshold": 0.5,
+  "regressions_found": 27,
+  "schema": "pev.compare.v1",
+  "slices_compared": 38
+}

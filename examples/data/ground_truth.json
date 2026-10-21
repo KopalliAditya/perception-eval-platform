@@ -1,0 +1,4019 @@
+{
+  "scenes": [
+    {
+      "frames": [
+        {
+          "index": 0,
+          "objects": [
+            {
+              "box": {
+                "cx": 22.836,
+                "cy": -17.375,
+                "cz": 0.842,
+                "heading": 0.1416,
+                "height": 1.684,
+                "length": 0.778,
+                "width": 0.54
+              },
+              "num_points": 151,
+              "track_id": 0,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 31.307,
+                "cy": 7.957,
+                "cz": 1.059,
+                "heading": 2.2616,
+                "height": 2.118,
+                "length": 0.37,
+                "width": 0.327
+              },
+              "num_points": 102,
+              "track_id": 1,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 15.127,
+                "cy": -14.69,
+                "cz": 0.758,
+                "heading": 0.6911,
+                "height": 1.516,
+                "length": 0.469,
+                "width": 0.416
+              },
+              "num_points": 173,
+              "track_id": 2,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 34.263,
+                "cy": -30.707,
+                "cz": 0.742,
+                "heading": 1.4264,
+                "height": 1.483,
+                "length": 5.133,
+                "width": 1.928
+              },
+              "num_points": 357,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 15.929,
+                "cy": -3.108,
+                "cz": 0.898,
+                "heading": -0.6605,
+                "height": 1.796,
+                "length": 0.482,
+                "width": 0.383
+              },
+              "num_points": 171,
+              "track_id": 4,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 31.981,
+                "cy": -19.117,
+                "cz": 1.175,
+                "heading": 1.0609,
+                "height": 2.35,
+                "length": 0.495,
+                "width": 0.574
+              },
+              "num_points": 80,
+              "track_id": 5,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 47.679,
+                "cy": -31.974,
+                "cz": 0.92,
+                "heading": 0.3995,
+                "height": 1.84,
+                "length": 0.753,
+                "width": 0.889
+              },
+              "num_points": 54,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 17.329,
+                "cy": 7.857,
+                "cz": 0.858,
+                "heading": 1.076,
+                "height": 1.716,
+                "length": 0.656,
+                "width": 0.742
+              },
+              "num_points": 147,
+              "track_id": 7,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 43.194,
+                "cy": -56.482,
+                "cz": 0.803,
+                "heading": -1.2229,
+                "height": 1.607,
+                "length": 1.73,
+                "width": 0.637
+              },
+              "num_points": 55,
+              "track_id": 8,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 28.456,
+                "cy": -13.166,
+                "cz": 0.716,
+                "heading": 0.2603,
+                "height": 1.432,
+                "length": 4.829,
+                "width": 1.978
+              },
+              "num_points": 735,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": -4.689,
+                "cy": -29.43,
+                "cz": 0.862,
+                "heading": 1.048,
+                "height": 1.724,
+                "length": 4.33,
+                "width": 2.013
+              },
+              "num_points": 690,
+              "track_id": 11,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 13.234,
+                "cy": 8.922,
+                "cz": 0.763,
+                "heading": -0.8572,
+                "height": 1.525,
+                "length": 1.912,
+                "width": 0.793
+              },
+              "num_points": 433,
+              "track_id": 13,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": -14.505,
+                "cy": 22.531,
+                "cz": 0.844,
+                "heading": -1.798,
+                "height": 1.688,
+                "length": 4.55,
+                "width": 2.023
+              },
+              "num_points": 1025,
+              "track_id": 14,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "objects": [
+            {
+              "box": {
+                "cx": 22.856,
+                "cy": -17.365,
+                "cz": 0.842,
+                "heading": 0.1597,
+                "height": 1.684,
+                "length": 0.778,
+                "width": 0.54
+              },
+              "num_points": 177,
+              "track_id": 0,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 31.307,
+                "cy": 7.957,
+                "cz": 1.059,
+                "heading": 2.2616,
+                "height": 2.118,
+                "length": 0.37,
+                "width": 0.327
+              },
+              "num_points": 83,
+              "track_id": 1,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 15.127,
+                "cy": -14.69,
+                "cz": 0.758,
+                "heading": 0.6911,
+                "height": 1.516,
+                "length": 0.469,
+                "width": 0.416
+              },
+              "num_points": 147,
+              "track_id": 2,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 33.381,
+                "cy": -28.542,
+                "cz": 0.742,
+                "heading": 1.4756,
+                "height": 1.483,
+                "length": 5.133,
+                "width": 1.928
+              },
+              "num_points": 482,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 15.929,
+                "cy": -3.108,
+                "cz": 0.898,
+                "heading": -0.6605,
+                "height": 1.796,
+                "length": 0.482,
+                "width": 0.383
+              },
+              "num_points": 221,
+              "track_id": 4,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 31.981,
+                "cy": -19.117,
+                "cz": 1.175,
+                "heading": 1.0609,
+                "height": 2.35,
+                "length": 0.495,
+                "width": 0.574
+              },
+              "num_points": 57,
+              "track_id": 5,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 47.695,
+                "cy": -31.969,
+                "cz": 0.92,
+                "heading": 0.4283,
+                "height": 1.84,
+                "length": 0.753,
+                "width": 0.889
+              },
+              "num_points": 41,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 17.476,
+                "cy": 8.092,
+                "cz": 0.858,
+                "heading": 1.0691,
+                "height": 1.716,
+                "length": 0.656,
+                "width": 0.742
+              },
+              "num_points": 163,
+              "track_id": 7,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 43.214,
+                "cy": -56.682,
+                "cz": 0.803,
+                "heading": -1.2275,
+                "height": 1.607,
+                "length": 1.73,
+                "width": 0.637
+              },
+              "num_points": 36,
+              "track_id": 8,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 33.878,
+                "cy": -0.649,
+                "cz": 0.812,
+                "heading": 1.206,
+                "height": 1.623,
+                "length": 4.252,
+                "width": 1.866
+              },
+              "num_points": 673,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 29.701,
+                "cy": -12.685,
+                "cz": 0.716,
+                "heading": 0.2244,
+                "height": 1.432,
+                "length": 4.829,
+                "width": 1.978
+              },
+              "num_points": 667,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": -3.134,
+                "cy": -27.955,
+                "cz": 0.862,
+                "heading": 1.0702,
+                "height": 1.724,
+                "length": 4.33,
+                "width": 2.013
+              },
+              "num_points": 794,
+              "track_id": 11,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 13.385,
+                "cy": 8.777,
+                "cz": 0.763,
+                "heading": -0.8375,
+                "height": 1.525,
+                "length": 1.912,
+                "width": 0.793
+              },
+              "num_points": 424,
+              "track_id": 13,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": -14.749,
+                "cy": 20.849,
+                "cz": 0.844,
+                "heading": -1.7718,
+                "height": 1.688,
+                "length": 4.55,
+                "width": 2.023
+              },
+              "num_points": 1178,
+              "track_id": 14,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "objects": [
+            {
+              "box": {
+                "cx": 22.876,
+                "cy": -17.356,
+                "cz": 0.842,
+                "heading": 0.1778,
+                "height": 1.684,
+                "length": 0.778,
+                "width": 0.54
+              },
+              "num_points": 103,
+              "track_id": 0,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 31.307,
+                "cy": 7.957,
+                "cz": 1.059,
+                "heading": 2.2616,
+                "height": 2.118,
+                "length": 0.37,
+                "width": 0.327
+              },
+              "num_points": 76,
+              "track_id": 1,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 15.127,
+                "cy": -14.69,
+                "cz": 0.758,
+                "heading": 0.6911,
+                "height": 1.516,
+                "length": 0.469,
+                "width": 0.416
+              },
+              "num_points": 157,
+              "track_id": 2,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 32.499,
+                "cy": -26.376,
+                "cz": 0.742,
+                "heading": 1.5249,
+                "height": 1.483,
+                "length": 5.133,
+                "width": 1.928
+              },
+              "num_points": 457,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 15.929,
+                "cy": -3.108,
+                "cz": 0.898,
+                "heading": -0.6605,
+                "height": 1.796,
+                "length": 0.482,
+                "width": 0.383
+              },
+              "num_points": 146,
+              "track_id": 4,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 31.981,
+                "cy": -19.117,
+                "cz": 1.175,
+                "heading": 1.0609,
+                "height": 2.35,
+                "length": 0.495,
+                "width": 0.574
+              },
+              "num_points": 67,
+              "track_id": 5,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 47.71,
+                "cy": -31.963,
+                "cz": 0.92,
+                "heading": 0.4571,
+                "height": 1.84,
+                "length": 0.753,
+                "width": 0.889
+              },
+              "num_points": 41,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 17.623,
+                "cy": 8.328,
+                "cz": 0.858,
+                "heading": 1.0622,
+                "height": 1.716,
+                "length": 0.656,
+                "width": 0.742
+              },
+              "num_points": 240,
+              "track_id": 7,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 43.233,
+                "cy": -56.881,
+                "cz": 0.803,
+                "heading": -1.2321,
+                "height": 1.607,
+                "length": 1.73,
+                "width": 0.637
+              },
+              "num_points": 33,
+              "track_id": 8,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 34.192,
+                "cy": 0.133,
+                "cz": 0.812,
+                "heading": 1.1632,
+                "height": 1.623,
+                "length": 4.252,
+                "width": 1.866
+              },
+              "num_points": 755,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 30.946,
+                "cy": -12.203,
+                "cz": 0.716,
+                "heading": 0.1885,
+                "height": 1.432,
+                "length": 4.829,
+                "width": 1.978
+              },
+              "num_points": 718,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": -1.58,
+                "cy": -26.48,
+                "cz": 0.862,
+                "heading": 1.0925,
+                "height": 1.724,
+                "length": 4.33,
+                "width": 2.013
+              },
+              "num_points": 791,
+              "track_id": 11,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 75.012,
+                "cy": 8.034,
+                "cz": 1.248,
+                "heading": -1.9559,
+                "height": 2.496,
+                "length": 0.455,
+                "width": 0.378
+              },
+              "num_points": 17,
+              "track_id": 12,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 13.536,
+                "cy": 8.633,
+                "cz": 0.763,
+                "heading": -0.8178,
+                "height": 1.525,
+                "length": 1.912,
+                "width": 0.793
+              },
+              "num_points": 299,
+              "track_id": 13,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": -14.994,
+                "cy": 19.167,
+                "cz": 0.844,
+                "heading": -1.7456,
+                "height": 1.688,
+                "length": 4.55,
+                "width": 2.023
+              },
+              "num_points": 1046,
+              "track_id": 14,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "objects": [
+            {
+              "box": {
+                "cx": 22.897,
+                "cy": -17.346,
+                "cz": 0.842,
+                "heading": 0.1959,
+                "height": 1.684,
+                "length": 0.778,
+                "width": 0.54
+              },
+              "num_points": 104,
+              "track_id": 0,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 31.307,
+                "cy": 7.957,
+                "cz": 1.059,
+                "heading": 2.2616,
+                "height": 2.118,
+                "length": 0.37,
+                "width": 0.327
+              },
+              "num_points": 65,
+              "track_id": 1,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 15.127,
+                "cy": -14.69,
+                "cz": 0.758,
+                "heading": 0.6911,
+                "height": 1.516,
+                "length": 0.469,
+                "width": 0.416
+              },
+              "num_points": 153,
+              "track_id": 2,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 31.617,
+                "cy": -24.21,
+                "cz": 0.742,
+                "heading": 1.5741,
+                "height": 1.483,
+                "length": 5.133,
+                "width": 1.928
+              },
+              "num_points": 441,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 15.929,
+                "cy": -3.108,
+                "cz": 0.898,
+                "heading": -0.6605,
+                "height": 1.796,
+                "length": 0.482,
+                "width": 0.383
+              },
+              "num_points": 127,
+              "track_id": 4,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 31.981,
+                "cy": -19.117,
+                "cz": 1.175,
+                "heading": 1.0609,
+                "height": 2.35,
+                "length": 0.495,
+                "width": 0.574
+              },
+              "num_points": 72,
+              "track_id": 5,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 47.725,
+                "cy": -31.958,
+                "cz": 0.92,
+                "heading": 0.486,
+                "height": 1.84,
+                "length": 0.753,
+                "width": 0.889
+              },
+              "num_points": 34,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 17.77,
+                "cy": 8.564,
+                "cz": 0.858,
+                "heading": 1.0554,
+                "height": 1.716,
+                "length": 0.656,
+                "width": 0.742
+              },
+              "num_points": 242,
+              "track_id": 7,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 43.253,
+                "cy": -57.081,
+                "cz": 0.803,
+                "heading": -1.2367,
+                "height": 1.607,
+                "length": 1.73,
+                "width": 0.637
+              },
+              "num_points": 30,
+              "track_id": 8,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 32.191,
+                "cy": -11.722,
+                "cz": 0.716,
+                "heading": 0.1526,
+                "height": 1.432,
+                "length": 4.829,
+                "width": 1.978
+              },
+              "num_points": 701,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": -0.026,
+                "cy": -25.004,
+                "cz": 0.862,
+                "heading": 1.1147,
+                "height": 1.724,
+                "length": 4.33,
+                "width": 2.013
+              },
+              "num_points": 920,
+              "track_id": 11,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 75.012,
+                "cy": 8.034,
+                "cz": 1.248,
+                "heading": -1.9559,
+                "height": 2.496,
+                "length": 0.455,
+                "width": 0.378
+              },
+              "num_points": 19,
+              "track_id": 12,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": -15.239,
+                "cy": 17.485,
+                "cz": 0.844,
+                "heading": -1.7195,
+                "height": 1.688,
+                "length": 4.55,
+                "width": 2.023
+              },
+              "num_points": 919,
+              "track_id": 14,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        }
+      ],
+      "id": "seg_0000",
+      "tags": [
+        "day_clear",
+        "highway"
+      ]
+    },
+    {
+      "frames": [
+        {
+          "index": 0,
+          "objects": [
+            {
+              "box": {
+                "cx": 40.976,
+                "cy": -15.314,
+                "cz": 0.795,
+                "heading": 0.6224,
+                "height": 1.591,
+                "length": 1.7,
+                "width": 0.612
+              },
+              "num_points": 68,
+              "track_id": 0,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 31.978,
+                "cy": -10.024,
+                "cz": 0.708,
+                "heading": -0.8129,
+                "height": 1.416,
+                "length": 5.454,
+                "width": 2.014
+              },
+              "num_points": 329,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 45.109,
+                "cy": -8.413,
+                "cz": 0.76,
+                "heading": 0.7199,
+                "height": 1.519,
+                "length": 0.774,
+                "width": 0.792
+              },
+              "num_points": 57,
+              "track_id": 2,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 11.337,
+                "cy": 1.659,
+                "cz": 0.785,
+                "heading": -1.1374,
+                "height": 1.569,
+                "length": 0.572,
+                "width": 0.359
+              },
+              "num_points": 159,
+              "track_id": 4,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 56.137,
+                "cy": 3.255,
+                "cz": 1.023,
+                "heading": 2.1267,
+                "height": 2.046,
+                "length": 0.317,
+                "width": 0.521
+              },
+              "num_points": 31,
+              "track_id": 7,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 46.613,
+                "cy": -6.144,
+                "cz": 0.785,
+                "heading": -1.1453,
+                "height": 1.57,
+                "length": 1.659,
+                "width": 0.754
+              },
+              "num_points": 90,
+              "track_id": 8,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 54.739,
+                "cy": 21.561,
+                "cz": 0.814,
+                "heading": 0.9139,
+                "height": 1.629,
+                "length": 4.381,
+                "width": 1.922
+              },
+              "num_points": 175,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 29.981,
+                "cy": 3.168,
+                "cz": 0.843,
+                "heading": 0.435,
+                "height": 1.685,
+                "length": 0.711,
+                "width": 0.575
+              },
+              "num_points": 99,
+              "track_id": 11,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 22.913,
+                "cy": -22.135,
+                "cz": 0.763,
+                "heading": -0.7484,
+                "height": 1.526,
+                "length": 0.56,
+                "width": 0.314
+              },
+              "num_points": 77,
+              "track_id": 12,
+              "type": "TYPE_SIGN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "objects": [
+            {
+              "box": {
+                "cx": 41.333,
+                "cy": -15.007,
+                "cz": 0.795,
+                "heading": 0.6003,
+                "height": 1.591,
+                "length": 1.7,
+                "width": 0.612
+              },
+              "num_points": 94,
+              "track_id": 0,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 32.52,
+                "cy": -10.681,
+                "cz": 0.708,
+                "heading": -0.7956,
+                "height": 1.416,
+                "length": 5.454,
+                "width": 2.014
+              },
+              "num_points": 370,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 45.145,
+                "cy": -8.402,
+                "cz": 0.76,
+                "heading": 0.7241,
+                "height": 1.519,
+                "length": 0.774,
+                "width": 0.792
+              },
+              "num_points": 45,
+              "track_id": 2,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 11.337,
+                "cy": 1.659,
+                "cz": 0.785,
+                "heading": -1.1374,
+                "height": 1.569,
+                "length": 0.572,
+                "width": 0.359
+              },
+              "num_points": 104,
+              "track_id": 4,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 25.926,
+                "cy": -2.266,
+                "cz": 0.778,
+                "heading": -4.0369,
+                "height": 1.556,
+                "length": 4.801,
+                "width": 1.949
+              },
+              "num_points": 760,
+              "track_id": 6,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 56.137,
+                "cy": 3.255,
+                "cz": 1.023,
+                "heading": 2.1267,
+                "height": 2.046,
+                "length": 0.317,
+                "width": 0.521
+              },
+              "num_points": 25,
+              "track_id": 7,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 46.889,
+                "cy": -6.887,
+                "cz": 0.785,
+                "heading": -1.1203,
+                "height": 1.57,
+                "length": 1.659,
+                "width": 0.754
+              },
+              "num_points": 57,
+              "track_id": 8,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 56.506,
+                "cy": 22.354,
+                "cz": 0.814,
+                "heading": 0.8886,
+                "height": 1.629,
+                "length": 4.381,
+                "width": 1.922
+              },
+              "num_points": 173,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 5.294,
+                "cy": -4.897,
+                "cz": 0.798,
+                "heading": -0.6674,
+                "height": 1.597,
+                "length": 1.991,
+                "width": 0.767
+              },
+              "num_points": 343,
+              "track_id": 10,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 30.296,
+                "cy": 3.397,
+                "cz": 0.843,
+                "heading": 0.4793,
+                "height": 1.685,
+                "length": 0.711,
+                "width": 0.575
+              },
+              "num_points": 77,
+              "track_id": 11,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 22.913,
+                "cy": -22.135,
+                "cz": 0.763,
+                "heading": -0.7484,
+                "height": 1.526,
+                "length": 0.56,
+                "width": 0.314
+              },
+              "num_points": 47,
+              "track_id": 12,
+              "type": "TYPE_SIGN"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "objects": [
+            {
+              "box": {
+                "cx": 41.691,
+                "cy": -14.699,
+                "cz": 0.795,
+                "heading": 0.5781,
+                "height": 1.591,
+                "length": 1.7,
+                "width": 0.612
+              },
+              "num_points": 85,
+              "track_id": 0,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 33.062,
+                "cy": -11.339,
+                "cz": 0.708,
+                "heading": -0.7782,
+                "height": 1.416,
+                "length": 5.454,
+                "width": 2.014
+              },
+              "num_points": 429,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 45.181,
+                "cy": -8.391,
+                "cz": 0.76,
+                "heading": 0.7282,
+                "height": 1.519,
+                "length": 0.774,
+                "width": 0.792
+              },
+              "num_points": 54,
+              "track_id": 2,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 52.695,
+                "cy": 2.248,
+                "cz": 0.871,
+                "heading": 0.7946,
+                "height": 1.743,
+                "length": 4.939,
+                "width": 1.951
+              },
+              "num_points": 216,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 11.337,
+                "cy": 1.659,
+                "cz": 0.785,
+                "heading": -1.1374,
+                "height": 1.569,
+                "length": 0.572,
+                "width": 0.359
+              },
+              "num_points": 162,
+              "track_id": 4,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 58.641,
+                "cy": -24.251,
+                "cz": 0.897,
+                "heading": -1.4647,
+                "height": 1.794,
+                "length": 0.852,
+                "width": 0.851
+              },
+              "num_points": 25,
+              "track_id": 5,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 24.329,
+                "cy": -1.461,
+                "cz": 0.778,
+                "heading": -4.0294,
+                "height": 1.556,
+                "length": 4.801,
+                "width": 1.949
+              },
+              "num_points": 660,
+              "track_id": 6,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 56.137,
+                "cy": 3.255,
+                "cz": 1.023,
+                "heading": 2.1267,
+                "height": 2.046,
+                "length": 0.317,
+                "width": 0.521
+              },
+              "num_points": 29,
+              "track_id": 7,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 47.164,
+                "cy": -7.629,
+                "cz": 0.785,
+                "heading": -1.0954,
+                "height": 1.57,
+                "length": 1.659,
+                "width": 0.754
+              },
+              "num_points": 63,
+              "track_id": 8,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 58.274,
+                "cy": 23.148,
+                "cz": 0.814,
+                "heading": 0.8632,
+                "height": 1.629,
+                "length": 4.381,
+                "width": 1.922
+              },
+              "num_points": 114,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 5.552,
+                "cy": -4.994,
+                "cz": 0.798,
+                "heading": -0.6611,
+                "height": 1.597,
+                "length": 1.991,
+                "width": 0.767
+              },
+              "num_points": 227,
+              "track_id": 10,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 30.611,
+                "cy": 3.627,
+                "cz": 0.843,
+                "heading": 0.5236,
+                "height": 1.685,
+                "length": 0.711,
+                "width": 0.575
+              },
+              "num_points": 96,
+              "track_id": 11,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 22.913,
+                "cy": -22.135,
+                "cz": 0.763,
+                "heading": -0.7484,
+                "height": 1.526,
+                "length": 0.56,
+                "width": 0.314
+              },
+              "num_points": 65,
+              "track_id": 12,
+              "type": "TYPE_SIGN"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "objects": [
+            {
+              "box": {
+                "cx": 42.049,
+                "cy": -14.392,
+                "cz": 0.795,
+                "heading": 0.5559,
+                "height": 1.591,
+                "length": 1.7,
+                "width": 0.612
+              },
+              "num_points": 86,
+              "track_id": 0,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 33.604,
+                "cy": -11.996,
+                "cz": 0.708,
+                "heading": -0.7609,
+                "height": 1.416,
+                "length": 5.454,
+                "width": 2.014
+              },
+              "num_points": 341,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 54.052,
+                "cy": 3.074,
+                "cz": 0.871,
+                "heading": 0.736,
+                "height": 1.743,
+                "length": 4.939,
+                "width": 1.951
+              },
+              "num_points": 158,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 11.337,
+                "cy": 1.659,
+                "cz": 0.785,
+                "heading": -1.1374,
+                "height": 1.569,
+                "length": 0.572,
+                "width": 0.359
+              },
+              "num_points": 95,
+              "track_id": 4,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 58.741,
+                "cy": -24.534,
+                "cz": 0.897,
+                "heading": -1.4779,
+                "height": 1.794,
+                "length": 0.852,
+                "width": 0.851
+              },
+              "num_points": 21,
+              "track_id": 5,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 22.731,
+                "cy": -0.656,
+                "cz": 0.778,
+                "heading": -4.022,
+                "height": 1.556,
+                "length": 4.801,
+                "width": 1.949
+              },
+              "num_points": 714,
+              "track_id": 6,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 56.137,
+                "cy": 3.255,
+                "cz": 1.023,
+                "heading": 2.1267,
+                "height": 2.046,
+                "length": 0.317,
+                "width": 0.521
+              },
+              "num_points": 22,
+              "track_id": 7,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 47.44,
+                "cy": -8.372,
+                "cz": 0.785,
+                "heading": -1.0704,
+                "height": 1.57,
+                "length": 1.659,
+                "width": 0.754
+              },
+              "num_points": 64,
+              "track_id": 8,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 60.041,
+                "cy": 23.941,
+                "cz": 0.814,
+                "heading": 0.8379,
+                "height": 1.629,
+                "length": 4.381,
+                "width": 1.922
+              },
+              "num_points": 168,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 5.809,
+                "cy": -5.092,
+                "cz": 0.798,
+                "heading": -0.6548,
+                "height": 1.597,
+                "length": 1.991,
+                "width": 0.767
+              },
+              "num_points": 285,
+              "track_id": 10,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 30.927,
+                "cy": 3.856,
+                "cz": 0.843,
+                "heading": 0.5679,
+                "height": 1.685,
+                "length": 0.711,
+                "width": 0.575
+              },
+              "num_points": 83,
+              "track_id": 11,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 22.913,
+                "cy": -22.135,
+                "cz": 0.763,
+                "heading": -0.7484,
+                "height": 1.526,
+                "length": 0.56,
+                "width": 0.314
+              },
+              "num_points": 71,
+              "track_id": 12,
+              "type": "TYPE_SIGN"
+            }
+          ]
+        }
+      ],
+      "id": "seg_0001",
+      "tags": [
+        "night",
+        "urban",
+        "low_visibility"
+      ]
+    },
+    {
+      "frames": [
+        {
+          "index": 0,
+          "objects": [
+            {
+              "box": {
+                "cx": 15.944,
+                "cy": -37.139,
+                "cz": 0.889,
+                "heading": -0.1069,
+                "height": 1.778,
+                "length": 1.98,
+                "width": 0.644
+              },
+              "num_points": 118,
+              "track_id": 0,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 4.191,
+                "cy": 0.105,
+                "cz": 0.825,
+                "heading": 0.0679,
+                "height": 1.651,
+                "length": 0.805,
+                "width": 0.563
+              },
+              "num_points": 221,
+              "track_id": 2,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 5.049,
+                "cy": 3.692,
+                "cz": 0.85,
+                "heading": -0.5865,
+                "height": 1.7,
+                "length": 5.031,
+                "width": 2.053
+              },
+              "num_points": 1729,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 19.17,
+                "cy": 43.166,
+                "cz": 0.796,
+                "heading": 1.2809,
+                "height": 1.592,
+                "length": 4.533,
+                "width": 1.995
+              },
+              "num_points": 324,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 31.023,
+                "cy": -0.897,
+                "cz": 0.745,
+                "heading": 0.1742,
+                "height": 1.49,
+                "length": 5.401,
+                "width": 1.802
+              },
+              "num_points": 437,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 47.65,
+                "cy": -30.565,
+                "cz": 0.894,
+                "heading": 0.917,
+                "height": 1.787,
+                "length": 5.258,
+                "width": 1.862
+              },
+              "num_points": 202,
+              "track_id": 6,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 18.613,
+                "cy": 3.438,
+                "cz": 0.81,
+                "heading": -0.7253,
+                "height": 1.62,
+                "length": 4.681,
+                "width": 1.965
+              },
+              "num_points": 1103,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 68.205,
+                "cy": 24.75,
+                "cz": 0.94,
+                "heading": 1.574,
+                "height": 1.879,
+                "length": 0.597,
+                "width": 0.362
+              },
+              "num_points": 18,
+              "track_id": 8,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 11.109,
+                "cy": 46.218,
+                "cz": 0.763,
+                "heading": 0.9669,
+                "height": 1.526,
+                "length": 4.951,
+                "width": 2.072
+              },
+              "num_points": 295,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 29.316,
+                "cy": -20.779,
+                "cz": 0.809,
+                "heading": -0.0388,
+                "height": 1.617,
+                "length": 4.1,
+                "width": 1.869
+              },
+              "num_points": 465,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 33.638,
+                "cy": -1.309,
+                "cz": 0.817,
+                "heading": 3.1723,
+                "height": 1.633,
+                "length": 4.272,
+                "width": 2.073
+              },
+              "num_points": 643,
+              "track_id": 12,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 11.085,
+                "cy": -3.787,
+                "cz": 0.765,
+                "heading": -0.4671,
+                "height": 1.531,
+                "length": 0.75,
+                "width": 0.528
+              },
+              "num_points": 211,
+              "track_id": 13,
+              "type": "TYPE_PEDESTRIAN"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "objects": [
+            {
+              "box": {
+                "cx": 17.123,
+                "cy": -37.107,
+                "cz": 0.889,
+                "heading": -0.1351,
+                "height": 1.778,
+                "length": 1.98,
+                "width": 0.644
+              },
+              "num_points": 73,
+              "track_id": 0,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 4.389,
+                "cy": 0.186,
+                "cz": 0.825,
+                "heading": 0.0717,
+                "height": 1.651,
+                "length": 0.805,
+                "width": 0.563
+              },
+              "num_points": 332,
+              "track_id": 2,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 5.829,
+                "cy": 2.814,
+                "cz": 0.85,
+                "heading": -0.5803,
+                "height": 1.7,
+                "length": 5.031,
+                "width": 2.053
+              },
+              "num_points": 1241,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 19.712,
+                "cy": 44.661,
+                "cz": 0.796,
+                "heading": 1.2988,
+                "height": 1.592,
+                "length": 4.533,
+                "width": 1.995
+              },
+              "num_points": 300,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 31.511,
+                "cy": -0.819,
+                "cz": 0.745,
+                "heading": 0.1992,
+                "height": 1.49,
+                "length": 5.401,
+                "width": 1.802
+              },
+              "num_points": 446,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 48.73,
+                "cy": -29.575,
+                "cz": 0.894,
+                "heading": 0.9314,
+                "height": 1.787,
+                "length": 5.258,
+                "width": 1.862
+              },
+              "num_points": 151,
+              "track_id": 6,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 19.079,
+                "cy": 3.051,
+                "cz": 0.81,
+                "heading": -0.706,
+                "height": 1.62,
+                "length": 4.681,
+                "width": 1.965
+              },
+              "num_points": 791,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 68.205,
+                "cy": 24.75,
+                "cz": 0.94,
+                "heading": 1.574,
+                "height": 1.879,
+                "length": 0.597,
+                "width": 0.362
+              },
+              "num_points": 17,
+              "track_id": 8,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 11.665,
+                "cy": 48.004,
+                "cz": 0.763,
+                "heading": 0.9968,
+                "height": 1.526,
+                "length": 4.951,
+                "width": 2.072
+              },
+              "num_points": 243,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 31.118,
+                "cy": -20.482,
+                "cz": 0.809,
+                "heading": -0.0272,
+                "height": 1.617,
+                "length": 4.1,
+                "width": 1.869
+              },
+              "num_points": 372,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 33.001,
+                "cy": -1.335,
+                "cz": 0.817,
+                "heading": 3.19,
+                "height": 1.633,
+                "length": 4.272,
+                "width": 2.073
+              },
+              "num_points": 436,
+              "track_id": 12,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 11.136,
+                "cy": -3.829,
+                "cz": 0.765,
+                "heading": -0.5079,
+                "height": 1.531,
+                "length": 0.75,
+                "width": 0.528
+              },
+              "num_points": 202,
+              "track_id": 13,
+              "type": "TYPE_PEDESTRIAN"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "objects": [
+            {
+              "box": {
+                "cx": 18.303,
+                "cy": -37.075,
+                "cz": 0.889,
+                "heading": -0.1633,
+                "height": 1.778,
+                "length": 1.98,
+                "width": 0.644
+              },
+              "num_points": 128,
+              "track_id": 0,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 14.237,
+                "cy": -8.827,
+                "cz": 0.834,
+                "heading": -0.2298,
+                "height": 1.667,
+                "length": 5.345,
+                "width": 1.942
+              },
+              "num_points": 960,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 4.588,
+                "cy": 0.267,
+                "cz": 0.825,
+                "heading": 0.0755,
+                "height": 1.651,
+                "length": 0.805,
+                "width": 0.563
+              },
+              "num_points": 273,
+              "track_id": 2,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 6.608,
+                "cy": 1.936,
+                "cz": 0.85,
+                "heading": -0.5741,
+                "height": 1.7,
+                "length": 5.031,
+                "width": 2.053
+              },
+              "num_points": 1750,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 20.253,
+                "cy": 46.156,
+                "cz": 0.796,
+                "heading": 1.3167,
+                "height": 1.592,
+                "length": 4.533,
+                "width": 1.995
+              },
+              "num_points": 275,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 31.998,
+                "cy": -0.741,
+                "cz": 0.745,
+                "heading": 0.2242,
+                "height": 1.49,
+                "length": 5.401,
+                "width": 1.802
+              },
+              "num_points": 444,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 49.811,
+                "cy": -28.585,
+                "cz": 0.894,
+                "heading": 0.9457,
+                "height": 1.787,
+                "length": 5.258,
+                "width": 1.862
+              },
+              "num_points": 181,
+              "track_id": 6,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 19.544,
+                "cy": 2.664,
+                "cz": 0.81,
+                "heading": -0.6867,
+                "height": 1.62,
+                "length": 4.681,
+                "width": 1.965
+              },
+              "num_points": 778,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 68.205,
+                "cy": 24.75,
+                "cz": 0.94,
+                "heading": 1.574,
+                "height": 1.879,
+                "length": 0.597,
+                "width": 0.362
+              },
+              "num_points": 14,
+              "track_id": 8,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 12.221,
+                "cy": 49.79,
+                "cz": 0.763,
+                "heading": 1.0267,
+                "height": 1.526,
+                "length": 4.951,
+                "width": 2.072
+              },
+              "num_points": 250,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 32.92,
+                "cy": -20.186,
+                "cz": 0.809,
+                "heading": -0.0155,
+                "height": 1.617,
+                "length": 4.1,
+                "width": 1.869
+              },
+              "num_points": 501,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 1.452,
+                "cy": -43.675,
+                "cz": 0.771,
+                "heading": 0.2187,
+                "height": 1.541,
+                "length": 0.798,
+                "width": 0.802
+              },
+              "num_points": 53,
+              "track_id": 11,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 32.364,
+                "cy": -1.361,
+                "cz": 0.817,
+                "heading": 3.2077,
+                "height": 1.633,
+                "length": 4.272,
+                "width": 2.073
+              },
+              "num_points": 529,
+              "track_id": 12,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 11.188,
+                "cy": -3.871,
+                "cz": 0.765,
+                "heading": -0.5487,
+                "height": 1.531,
+                "length": 0.75,
+                "width": 0.528
+              },
+              "num_points": 215,
+              "track_id": 13,
+              "type": "TYPE_PEDESTRIAN"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "objects": [
+            {
+              "box": {
+                "cx": 19.483,
+                "cy": -37.043,
+                "cz": 0.889,
+                "heading": -0.1915,
+                "height": 1.778,
+                "length": 1.98,
+                "width": 0.644
+              },
+              "num_points": 90,
+              "track_id": 0,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 14.77,
+                "cy": -9.264,
+                "cz": 0.834,
+                "heading": -0.2286,
+                "height": 1.667,
+                "length": 5.345,
+                "width": 1.942
+              },
+              "num_points": 1153,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 4.787,
+                "cy": 0.348,
+                "cz": 0.825,
+                "heading": 0.0793,
+                "height": 1.651,
+                "length": 0.805,
+                "width": 0.563
+              },
+              "num_points": 276,
+              "track_id": 2,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 7.387,
+                "cy": 1.058,
+                "cz": 0.85,
+                "heading": -0.5679,
+                "height": 1.7,
+                "length": 5.031,
+                "width": 2.053
+              },
+              "num_points": 1233,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 20.795,
+                "cy": 47.651,
+                "cz": 0.796,
+                "heading": 1.3345,
+                "height": 1.592,
+                "length": 4.533,
+                "width": 1.995
+              },
+              "num_points": 286,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 32.485,
+                "cy": -0.662,
+                "cz": 0.745,
+                "heading": 0.2491,
+                "height": 1.49,
+                "length": 5.401,
+                "width": 1.802
+              },
+              "num_points": 546,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 50.891,
+                "cy": -27.594,
+                "cz": 0.894,
+                "heading": 0.96,
+                "height": 1.787,
+                "length": 5.258,
+                "width": 1.862
+              },
+              "num_points": 206,
+              "track_id": 6,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 20.01,
+                "cy": 2.277,
+                "cz": 0.81,
+                "heading": -0.6674,
+                "height": 1.62,
+                "length": 4.681,
+                "width": 1.965
+              },
+              "num_points": 854,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 68.205,
+                "cy": 24.75,
+                "cz": 0.94,
+                "heading": 1.574,
+                "height": 1.879,
+                "length": 0.597,
+                "width": 0.362
+              },
+              "num_points": 15,
+              "track_id": 8,
+              "type": "TYPE_SIGN"
+            },
+            {
+              "box": {
+                "cx": 12.776,
+                "cy": 51.576,
+                "cz": 0.763,
+                "heading": 1.0566,
+                "height": 1.526,
+                "length": 4.951,
+                "width": 2.072
+              },
+              "num_points": 282,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 34.722,
+                "cy": -19.889,
+                "cz": 0.809,
+                "heading": -0.0039,
+                "height": 1.617,
+                "length": 4.1,
+                "width": 1.869
+              },
+              "num_points": 307,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 1.691,
+                "cy": -43.641,
+                "cz": 0.771,
+                "heading": 0.2787,
+                "height": 1.541,
+                "length": 0.798,
+                "width": 0.802
+              },
+              "num_points": 53,
+              "track_id": 11,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 31.727,
+                "cy": -1.386,
+                "cz": 0.817,
+                "heading": 3.2254,
+                "height": 1.633,
+                "length": 4.272,
+                "width": 2.073
+              },
+              "num_points": 412,
+              "track_id": 12,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 11.239,
+                "cy": -3.913,
+                "cz": 0.765,
+                "heading": -0.5894,
+                "height": 1.531,
+                "length": 0.75,
+                "width": 0.528
+              },
+              "num_points": 230,
+              "track_id": 13,
+              "type": "TYPE_PEDESTRIAN"
+            }
+          ]
+        }
+      ],
+      "id": "seg_0002",
+      "tags": [
+        "rain",
+        "urban",
+        "low_visibility"
+      ]
+    },
+    {
+      "frames": [
+        {
+          "index": 0,
+          "objects": [
+            {
+              "box": {
+                "cx": 3.323,
+                "cy": -68.076,
+                "cz": 0.868,
+                "heading": -1.693,
+                "height": 1.736,
+                "length": 5.201,
+                "width": 2.094
+              },
+              "num_points": 78,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 8.004,
+                "cy": 22.453,
+                "cz": 0.818,
+                "heading": -0.6539,
+                "height": 1.636,
+                "length": 4.389,
+                "width": 1.914
+              },
+              "num_points": 551,
+              "track_id": 2,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 14.277,
+                "cy": 1.009,
+                "cz": 0.752,
+                "heading": -1.174,
+                "height": 1.503,
+                "length": 4.812,
+                "width": 1.99
+              },
+              "num_points": 617,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 36.558,
+                "cy": 31.426,
+                "cz": 0.875,
+                "heading": 0.9679,
+                "height": 1.75,
+                "length": 4.205,
+                "width": 2.07
+              },
+              "num_points": 172,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 19.256,
+                "cy": -53.871,
+                "cz": 0.771,
+                "heading": 0.2218,
+                "height": 1.542,
+                "length": 4.584,
+                "width": 1.887
+              },
+              "num_points": 161,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 3.109,
+                "cy": 9.041,
+                "cz": 0.771,
+                "heading": -0.4805,
+                "height": 1.543,
+                "length": 0.734,
+                "width": 0.808
+              },
+              "num_points": 92,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 73.388,
+                "cy": -11.721,
+                "cz": 0.727,
+                "heading": 0.7327,
+                "height": 1.455,
+                "length": 4.137,
+                "width": 2.075
+              },
+              "num_points": 52,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "objects": [
+            {
+              "box": {
+                "cx": 3.391,
+                "cy": -68.932,
+                "cz": 0.868,
+                "heading": -1.6878,
+                "height": 1.736,
+                "length": 5.201,
+                "width": 2.094
+              },
+              "num_points": 74,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 9.2,
+                "cy": 21.524,
+                "cz": 0.818,
+                "heading": -0.6135,
+                "height": 1.636,
+                "length": 4.389,
+                "width": 1.914
+              },
+              "num_points": 576,
+              "track_id": 2,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 14.327,
+                "cy": 0.112,
+                "cz": 0.752,
+                "heading": -1.1599,
+                "height": 1.503,
+                "length": 4.812,
+                "width": 1.99
+              },
+              "num_points": 481,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 37.162,
+                "cy": 31.751,
+                "cz": 0.875,
+                "heading": 0.9739,
+                "height": 1.75,
+                "length": 4.205,
+                "width": 2.07
+              },
+              "num_points": 121,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 20.516,
+                "cy": -53.394,
+                "cz": 0.771,
+                "heading": 0.2255,
+                "height": 1.542,
+                "length": 4.584,
+                "width": 1.887
+              },
+              "num_points": 91,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 3.365,
+                "cy": 8.94,
+                "cz": 0.771,
+                "heading": -0.4526,
+                "height": 1.543,
+                "length": 0.734,
+                "width": 0.808
+              },
+              "num_points": 99,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 74.257,
+                "cy": -10.508,
+                "cz": 0.727,
+                "heading": 0.7465,
+                "height": 1.455,
+                "length": 4.137,
+                "width": 2.075
+              },
+              "num_points": 45,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 45.462,
+                "cy": -1.596,
+                "cz": 0.773,
+                "heading": -1.541,
+                "height": 1.546,
+                "length": 4.967,
+                "width": 1.995
+              },
+              "num_points": 193,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "objects": [
+            {
+              "box": {
+                "cx": 3.46,
+                "cy": -69.788,
+                "cz": 0.868,
+                "heading": -1.6827,
+                "height": 1.736,
+                "length": 5.201,
+                "width": 2.094
+              },
+              "num_points": 80,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 47.034,
+                "cy": -42.97,
+                "cz": 0.871,
+                "heading": -0.8592,
+                "height": 1.741,
+                "length": 0.922,
+                "width": 0.895
+              },
+              "num_points": 14,
+              "track_id": 1,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 10.397,
+                "cy": 20.595,
+                "cz": 0.818,
+                "heading": -0.5731,
+                "height": 1.636,
+                "length": 4.389,
+                "width": 1.914
+              },
+              "num_points": 435,
+              "track_id": 2,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 14.378,
+                "cy": -0.786,
+                "cz": 0.752,
+                "heading": -1.1457,
+                "height": 1.503,
+                "length": 4.812,
+                "width": 1.99
+              },
+              "num_points": 488,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 37.765,
+                "cy": 32.076,
+                "cz": 0.875,
+                "heading": 0.9798,
+                "height": 1.75,
+                "length": 4.205,
+                "width": 2.07
+              },
+              "num_points": 151,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 21.776,
+                "cy": -52.917,
+                "cz": 0.771,
+                "heading": 0.2291,
+                "height": 1.542,
+                "length": 4.584,
+                "width": 1.887
+              },
+              "num_points": 126,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 3.622,
+                "cy": 8.839,
+                "cz": 0.771,
+                "heading": -0.4247,
+                "height": 1.543,
+                "length": 0.734,
+                "width": 0.808
+              },
+              "num_points": 149,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 75.126,
+                "cy": -9.295,
+                "cz": 0.727,
+                "heading": 0.7603,
+                "height": 1.455,
+                "length": 4.137,
+                "width": 2.075
+              },
+              "num_points": 43,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 6.845,
+                "cy": 1.002,
+                "cz": 0.889,
+                "heading": 0.1606,
+                "height": 1.778,
+                "length": 4.332,
+                "width": 2.096
+              },
+              "num_points": 845,
+              "track_id": 8,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 45.599,
+                "cy": -3.056,
+                "cz": 0.773,
+                "heading": -1.5264,
+                "height": 1.546,
+                "length": 4.967,
+                "width": 1.995
+              },
+              "num_points": 170,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "objects": [
+            {
+              "box": {
+                "cx": 3.528,
+                "cy": -70.644,
+                "cz": 0.868,
+                "heading": -1.6775,
+                "height": 1.736,
+                "length": 5.201,
+                "width": 2.094
+              },
+              "num_points": 90,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 47.127,
+                "cy": -43.059,
+                "cz": 0.871,
+                "heading": -0.8304,
+                "height": 1.741,
+                "length": 0.922,
+                "width": 0.895
+              },
+              "num_points": 18,
+              "track_id": 1,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 11.593,
+                "cy": 19.667,
+                "cz": 0.818,
+                "heading": -0.5328,
+                "height": 1.636,
+                "length": 4.389,
+                "width": 1.914
+              },
+              "num_points": 493,
+              "track_id": 2,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 14.428,
+                "cy": -1.684,
+                "cz": 0.752,
+                "heading": -1.1315,
+                "height": 1.503,
+                "length": 4.812,
+                "width": 1.99
+              },
+              "num_points": 557,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 38.369,
+                "cy": 32.402,
+                "cz": 0.875,
+                "heading": 0.9858,
+                "height": 1.75,
+                "length": 4.205,
+                "width": 2.07
+              },
+              "num_points": 203,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 23.036,
+                "cy": -52.44,
+                "cz": 0.771,
+                "heading": 0.2328,
+                "height": 1.542,
+                "length": 4.584,
+                "width": 1.887
+              },
+              "num_points": 90,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 3.878,
+                "cy": 8.739,
+                "cz": 0.771,
+                "heading": -0.3968,
+                "height": 1.543,
+                "length": 0.734,
+                "width": 0.808
+              },
+              "num_points": 100,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 75.996,
+                "cy": -8.082,
+                "cz": 0.727,
+                "heading": 0.774,
+                "height": 1.455,
+                "length": 4.137,
+                "width": 2.075
+              },
+              "num_points": 56,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 7.537,
+                "cy": 1.084,
+                "cz": 0.889,
+                "heading": 0.1582,
+                "height": 1.778,
+                "length": 4.332,
+                "width": 2.096
+              },
+              "num_points": 650,
+              "track_id": 8,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        }
+      ],
+      "id": "seg_0003",
+      "tags": [
+        "fog",
+        "urban",
+        "low_visibility"
+      ]
+    },
+    {
+      "frames": [
+        {
+          "index": 0,
+          "objects": [
+            {
+              "box": {
+                "cx": 48.424,
+                "cy": 1.842,
+                "cz": 0.877,
+                "heading": 0.7168,
+                "height": 1.754,
+                "length": 4.883,
+                "width": 2.095
+              },
+              "num_points": 310,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": -14.008,
+                "cy": 18.566,
+                "cz": 0.805,
+                "heading": 1.1345,
+                "height": 1.61,
+                "length": 4.777,
+                "width": 1.979
+              },
+              "num_points": 984,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 6.556,
+                "cy": -0.927,
+                "cz": 0.87,
+                "heading": -1.0241,
+                "height": 1.741,
+                "length": 4.715,
+                "width": 1.813
+              },
+              "num_points": 2199,
+              "track_id": 2,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 58.656,
+                "cy": 40.438,
+                "cz": 0.784,
+                "heading": -0.7139,
+                "height": 1.569,
+                "length": 1.602,
+                "width": 0.846
+              },
+              "num_points": 44,
+              "track_id": 4,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 15.379,
+                "cy": 7.885,
+                "cz": 0.778,
+                "heading": -0.7245,
+                "height": 1.557,
+                "length": 4.648,
+                "width": 2.052
+              },
+              "num_points": 1402,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 6.225,
+                "cy": 1.071,
+                "cz": 0.893,
+                "heading": -0.68,
+                "height": 1.785,
+                "length": 4.197,
+                "width": 2.06
+              },
+              "num_points": 1936,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 7.247,
+                "cy": -7.935,
+                "cz": 0.741,
+                "heading": -0.3082,
+                "height": 1.481,
+                "length": 4.815,
+                "width": 1.848
+              },
+              "num_points": 1768,
+              "track_id": 8,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 34.758,
+                "cy": -9.602,
+                "cz": 0.818,
+                "heading": 0.8905,
+                "height": 1.636,
+                "length": 4.977,
+                "width": 1.898
+              },
+              "num_points": 561,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 9.34,
+                "cy": 0.6,
+                "cz": 0.888,
+                "heading": 1.2901,
+                "height": 1.776,
+                "length": 4.519,
+                "width": 2.033
+              },
+              "num_points": 1713,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 24.138,
+                "cy": 9.966,
+                "cz": 0.842,
+                "heading": -0.2463,
+                "height": 1.684,
+                "length": 1.838,
+                "width": 0.785
+              },
+              "num_points": 273,
+              "track_id": 11,
+              "type": "TYPE_CYCLIST"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "objects": [
+            {
+              "box": {
+                "cx": 49.39,
+                "cy": 2.526,
+                "cz": 0.877,
+                "heading": 0.732,
+                "height": 1.754,
+                "length": 4.883,
+                "width": 2.095
+              },
+              "num_points": 456,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": -13.272,
+                "cy": 20.947,
+                "cz": 0.805,
+                "heading": 1.1683,
+                "height": 1.61,
+                "length": 4.777,
+                "width": 1.979
+              },
+              "num_points": 925,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 7.339,
+                "cy": -2.678,
+                "cz": 0.87,
+                "heading": -1.023,
+                "height": 1.741,
+                "length": 4.715,
+                "width": 1.813
+              },
+              "num_points": 1344,
+              "track_id": 2,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 39.493,
+                "cy": 15.9,
+                "cz": 0.897,
+                "heading": -1.1404,
+                "height": 1.794,
+                "length": 0.818,
+                "width": 0.846
+              },
+              "num_points": 65,
+              "track_id": 3,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 58.961,
+                "cy": 40.19,
+                "cz": 0.784,
+                "heading": -0.7082,
+                "height": 1.569,
+                "length": 1.602,
+                "width": 0.846
+              },
+              "num_points": 30,
+              "track_id": 4,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 16.019,
+                "cy": 7.647,
+                "cz": 0.778,
+                "heading": -0.6672,
+                "height": 1.557,
+                "length": 4.648,
+                "width": 2.052
+              },
+              "num_points": 1379,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 27.477,
+                "cy": 15.436,
+                "cz": 0.914,
+                "heading": -1.4699,
+                "height": 1.829,
+                "length": 0.753,
+                "width": 0.526
+              },
+              "num_points": 112,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 7.642,
+                "cy": -0.595,
+                "cz": 0.893,
+                "heading": -0.6608,
+                "height": 1.785,
+                "length": 4.197,
+                "width": 2.06
+              },
+              "num_points": 1909,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 8.714,
+                "cy": -7.946,
+                "cz": 0.741,
+                "heading": -0.3556,
+                "height": 1.481,
+                "length": 4.815,
+                "width": 1.848
+              },
+              "num_points": 1582,
+              "track_id": 8,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 35.331,
+                "cy": -8.582,
+                "cz": 0.818,
+                "heading": 0.8919,
+                "height": 1.636,
+                "length": 4.977,
+                "width": 1.898
+              },
+              "num_points": 462,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 9.56,
+                "cy": 1.027,
+                "cz": 0.888,
+                "heading": 1.2941,
+                "height": 1.776,
+                "length": 4.519,
+                "width": 2.033
+              },
+              "num_points": 1627,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 24.95,
+                "cy": 9.956,
+                "cz": 0.842,
+                "heading": -0.2013,
+                "height": 1.684,
+                "length": 1.838,
+                "width": 0.785
+              },
+              "num_points": 193,
+              "track_id": 11,
+              "type": "TYPE_CYCLIST"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "objects": [
+            {
+              "box": {
+                "cx": 50.355,
+                "cy": 3.211,
+                "cz": 0.877,
+                "heading": 0.7473,
+                "height": 1.754,
+                "length": 4.883,
+                "width": 2.095
+              },
+              "num_points": 341,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": -12.537,
+                "cy": 23.328,
+                "cz": 0.805,
+                "heading": 1.202,
+                "height": 1.61,
+                "length": 4.777,
+                "width": 1.979
+              },
+              "num_points": 742,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 8.122,
+                "cy": -4.428,
+                "cz": 0.87,
+                "heading": -1.0219,
+                "height": 1.741,
+                "length": 4.715,
+                "width": 1.813
+              },
+              "num_points": 2109,
+              "track_id": 2,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 39.512,
+                "cy": 15.84,
+                "cz": 0.897,
+                "heading": -1.1452,
+                "height": 1.794,
+                "length": 0.818,
+                "width": 0.846
+              },
+              "num_points": 66,
+              "track_id": 3,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 59.265,
+                "cy": 39.942,
+                "cz": 0.784,
+                "heading": -0.7025,
+                "height": 1.569,
+                "length": 1.602,
+                "width": 0.846
+              },
+              "num_points": 53,
+              "track_id": 4,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 16.659,
+                "cy": 7.41,
+                "cz": 0.778,
+                "heading": -0.6099,
+                "height": 1.557,
+                "length": 4.648,
+                "width": 2.052
+              },
+              "num_points": 1177,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 27.477,
+                "cy": 15.436,
+                "cz": 0.914,
+                "heading": -1.4436,
+                "height": 1.829,
+                "length": 0.753,
+                "width": 0.526
+              },
+              "num_points": 151,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 9.058,
+                "cy": -2.26,
+                "cz": 0.893,
+                "heading": -0.6416,
+                "height": 1.785,
+                "length": 4.197,
+                "width": 2.06
+              },
+              "num_points": 1881,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 10.181,
+                "cy": -7.958,
+                "cz": 0.741,
+                "heading": -0.403,
+                "height": 1.481,
+                "length": 4.815,
+                "width": 1.848
+              },
+              "num_points": 1736,
+              "track_id": 8,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 35.903,
+                "cy": -7.561,
+                "cz": 0.818,
+                "heading": 0.8934,
+                "height": 1.636,
+                "length": 4.977,
+                "width": 1.898
+              },
+              "num_points": 708,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 9.781,
+                "cy": 1.455,
+                "cz": 0.888,
+                "heading": 1.2981,
+                "height": 1.776,
+                "length": 4.519,
+                "width": 2.033
+              },
+              "num_points": 1714,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 25.762,
+                "cy": 9.946,
+                "cz": 0.842,
+                "heading": -0.1564,
+                "height": 1.684,
+                "length": 1.838,
+                "width": 0.785
+              },
+              "num_points": 231,
+              "track_id": 11,
+              "type": "TYPE_CYCLIST"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "objects": [
+            {
+              "box": {
+                "cx": 51.321,
+                "cy": 3.895,
+                "cz": 0.877,
+                "heading": 0.7625,
+                "height": 1.754,
+                "length": 4.883,
+                "width": 2.095
+              },
+              "num_points": 348,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": -11.801,
+                "cy": 25.709,
+                "cz": 0.805,
+                "heading": 1.2358,
+                "height": 1.61,
+                "length": 4.777,
+                "width": 1.979
+              },
+              "num_points": 887,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 8.904,
+                "cy": -6.179,
+                "cz": 0.87,
+                "heading": -1.0209,
+                "height": 1.741,
+                "length": 4.715,
+                "width": 1.813
+              },
+              "num_points": 1183,
+              "track_id": 2,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 59.57,
+                "cy": 39.693,
+                "cz": 0.784,
+                "heading": -0.6968,
+                "height": 1.569,
+                "length": 1.602,
+                "width": 0.846
+              },
+              "num_points": 39,
+              "track_id": 4,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 17.298,
+                "cy": 7.173,
+                "cz": 0.778,
+                "heading": -0.5526,
+                "height": 1.557,
+                "length": 4.648,
+                "width": 2.052
+              },
+              "num_points": 1294,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 11.647,
+                "cy": -7.97,
+                "cz": 0.741,
+                "heading": -0.4503,
+                "height": 1.481,
+                "length": 4.815,
+                "width": 1.848
+              },
+              "num_points": 1538,
+              "track_id": 8,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 36.475,
+                "cy": -6.541,
+                "cz": 0.818,
+                "heading": 0.8948,
+                "height": 1.636,
+                "length": 4.977,
+                "width": 1.898
+              },
+              "num_points": 707,
+              "track_id": 9,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 10.002,
+                "cy": 1.883,
+                "cz": 0.888,
+                "heading": 1.3021,
+                "height": 1.776,
+                "length": 4.519,
+                "width": 2.033
+              },
+              "num_points": 1847,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 26.574,
+                "cy": 9.937,
+                "cz": 0.842,
+                "heading": -0.1114,
+                "height": 1.684,
+                "length": 1.838,
+                "width": 0.785
+              },
+              "num_points": 283,
+              "track_id": 11,
+              "type": "TYPE_CYCLIST"
+            }
+          ]
+        }
+      ],
+      "id": "seg_0004",
+      "tags": [
+        "day_clear",
+        "suburban"
+      ]
+    },
+    {
+      "frames": [
+        {
+          "index": 0,
+          "objects": [
+            {
+              "box": {
+                "cx": 13.508,
+                "cy": 2.493,
+                "cz": 0.847,
+                "heading": -0.3498,
+                "height": 1.693,
+                "length": 4.934,
+                "width": 1.989
+              },
+              "num_points": 1012,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 48.719,
+                "cy": -57.987,
+                "cz": 0.778,
+                "heading": 0.4158,
+                "height": 1.556,
+                "length": 4.889,
+                "width": 1.849
+              },
+              "num_points": 88,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 73.192,
+                "cy": -4.14,
+                "cz": 0.806,
+                "heading": 0.0112,
+                "height": 1.612,
+                "length": 4.405,
+                "width": 1.817
+              },
+              "num_points": 125,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 59.868,
+                "cy": -11.001,
+                "cz": 0.873,
+                "heading": 0.1692,
+                "height": 1.746,
+                "length": 4.366,
+                "width": 2.049
+              },
+              "num_points": 122,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 55.951,
+                "cy": -20.765,
+                "cz": 0.949,
+                "heading": 0.8331,
+                "height": 1.897,
+                "length": 0.727,
+                "width": 0.847
+              },
+              "num_points": 31,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 35.947,
+                "cy": 33.487,
+                "cz": 0.826,
+                "heading": 2.6954,
+                "height": 1.652,
+                "length": 4.974,
+                "width": 1.899
+              },
+              "num_points": 232,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 66.213,
+                "cy": 7.962,
+                "cz": 0.94,
+                "heading": -2.6229,
+                "height": 1.881,
+                "length": 0.8,
+                "width": 0.717
+              },
+              "num_points": 20,
+              "track_id": 8,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 17.717,
+                "cy": -26.799,
+                "cz": 0.848,
+                "heading": -1.332,
+                "height": 1.696,
+                "length": 1.629,
+                "width": 0.886
+              },
+              "num_points": 139,
+              "track_id": 9,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 64.851,
+                "cy": 2.869,
+                "cz": 0.895,
+                "heading": 0.6162,
+                "height": 1.791,
+                "length": 5.076,
+                "width": 1.92
+              },
+              "num_points": 149,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 36.554,
+                "cy": 8.054,
+                "cz": 0.825,
+                "heading": 0.5442,
+                "height": 1.65,
+                "length": 5.001,
+                "width": 1.829
+              },
+              "num_points": 499,
+              "track_id": 12,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "objects": [
+            {
+              "box": {
+                "cx": 14.159,
+                "cy": 2.248,
+                "cz": 0.847,
+                "heading": -0.3179,
+                "height": 1.693,
+                "length": 4.934,
+                "width": 1.989
+              },
+              "num_points": 727,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 49.605,
+                "cy": -57.49,
+                "cz": 0.778,
+                "heading": 0.3773,
+                "height": 1.556,
+                "length": 4.889,
+                "width": 1.849
+              },
+              "num_points": 67,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 54.627,
+                "cy": -13.628,
+                "cz": 0.843,
+                "heading": 1.467,
+                "height": 1.685,
+                "length": 1.772,
+                "width": 0.675
+              },
+              "num_points": 55,
+              "track_id": 2,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 74.182,
+                "cy": -4.039,
+                "cz": 0.806,
+                "heading": 0.0437,
+                "height": 1.612,
+                "length": 4.405,
+                "width": 1.817
+              },
+              "num_points": 98,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 62.034,
+                "cy": -10.167,
+                "cz": 0.873,
+                "heading": 0.1975,
+                "height": 1.746,
+                "length": 4.366,
+                "width": 2.049
+              },
+              "num_points": 125,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 55.975,
+                "cy": -20.729,
+                "cz": 0.949,
+                "heading": 0.8213,
+                "height": 1.897,
+                "length": 0.727,
+                "width": 0.847
+              },
+              "num_points": 21,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 34.592,
+                "cy": 34.146,
+                "cz": 0.826,
+                "heading": 2.7047,
+                "height": 1.652,
+                "length": 4.974,
+                "width": 1.899
+              },
+              "num_points": 188,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 66.069,
+                "cy": 7.837,
+                "cz": 0.94,
+                "heading": -2.6202,
+                "height": 1.881,
+                "length": 0.8,
+                "width": 0.717
+              },
+              "num_points": 26,
+              "track_id": 8,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 17.831,
+                "cy": -27.176,
+                "cz": 0.848,
+                "heading": -1.309,
+                "height": 1.696,
+                "length": 1.629,
+                "width": 0.886
+              },
+              "num_points": 99,
+              "track_id": 9,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 66.791,
+                "cy": 3.888,
+                "cz": 0.895,
+                "heading": 0.6117,
+                "height": 1.791,
+                "length": 5.076,
+                "width": 1.92
+              },
+              "num_points": 111,
+              "track_id": 10,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 37.794,
+                "cy": 9.521,
+                "cz": 0.825,
+                "heading": 0.5523,
+                "height": 1.65,
+                "length": 5.001,
+                "width": 1.829
+              },
+              "num_points": 303,
+              "track_id": 12,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "objects": [
+            {
+              "box": {
+                "cx": 14.809,
+                "cy": 2.003,
+                "cz": 0.847,
+                "heading": -0.286,
+                "height": 1.693,
+                "length": 4.934,
+                "width": 1.989
+              },
+              "num_points": 835,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 50.49,
+                "cy": -56.993,
+                "cz": 0.778,
+                "heading": 0.3388,
+                "height": 1.556,
+                "length": 4.889,
+                "width": 1.849
+              },
+              "num_points": 64,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 54.656,
+                "cy": -13.393,
+                "cz": 0.843,
+                "heading": 1.506,
+                "height": 1.685,
+                "length": 1.772,
+                "width": 0.675
+              },
+              "num_points": 49,
+              "track_id": 2,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 75.173,
+                "cy": -3.938,
+                "cz": 0.806,
+                "heading": 0.0763,
+                "height": 1.612,
+                "length": 4.405,
+                "width": 1.817
+              },
+              "num_points": 67,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 24.109,
+                "cy": 11.675,
+                "cz": 0.706,
+                "heading": 2.2968,
+                "height": 1.412,
+                "length": 5,
+                "width": 1.842
+              },
+              "num_points": 684,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 64.201,
+                "cy": -9.334,
+                "cz": 0.873,
+                "heading": 0.2259,
+                "height": 1.746,
+                "length": 4.366,
+                "width": 2.049
+              },
+              "num_points": 113,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 55.999,
+                "cy": -20.692,
+                "cz": 0.949,
+                "heading": 0.8096,
+                "height": 1.897,
+                "length": 0.727,
+                "width": 0.847
+              },
+              "num_points": 28,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 33.238,
+                "cy": 34.806,
+                "cz": 0.826,
+                "heading": 2.7141,
+                "height": 1.652,
+                "length": 4.974,
+                "width": 1.899
+              },
+              "num_points": 313,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 65.925,
+                "cy": 7.713,
+                "cz": 0.94,
+                "heading": -2.6176,
+                "height": 1.881,
+                "length": 0.8,
+                "width": 0.717
+              },
+              "num_points": 23,
+              "track_id": 8,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 17.946,
+                "cy": -27.554,
+                "cz": 0.848,
+                "heading": -1.2859,
+                "height": 1.696,
+                "length": 1.629,
+                "width": 0.886
+              },
+              "num_points": 122,
+              "track_id": 9,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 32.956,
+                "cy": 34.791,
+                "cz": 0.803,
+                "heading": -0.3045,
+                "height": 1.606,
+                "length": 4.004,
+                "width": 1.991
+              },
+              "num_points": 230,
+              "track_id": 11,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 39.035,
+                "cy": 10.988,
+                "cz": 0.825,
+                "heading": 0.5603,
+                "height": 1.65,
+                "length": 5.001,
+                "width": 1.829
+              },
+              "num_points": 307,
+              "track_id": 12,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "objects": [
+            {
+              "box": {
+                "cx": 15.46,
+                "cy": 1.758,
+                "cz": 0.847,
+                "heading": -0.2542,
+                "height": 1.693,
+                "length": 4.934,
+                "width": 1.989
+              },
+              "num_points": 984,
+              "track_id": 0,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 51.376,
+                "cy": -56.497,
+                "cz": 0.778,
+                "heading": 0.3003,
+                "height": 1.556,
+                "length": 4.889,
+                "width": 1.849
+              },
+              "num_points": 112,
+              "track_id": 1,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 54.685,
+                "cy": -13.158,
+                "cz": 0.843,
+                "heading": 1.5449,
+                "height": 1.685,
+                "length": 1.772,
+                "width": 0.675
+              },
+              "num_points": 53,
+              "track_id": 2,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 76.163,
+                "cy": -3.837,
+                "cz": 0.806,
+                "heading": 0.1089,
+                "height": 1.612,
+                "length": 4.405,
+                "width": 1.817
+              },
+              "num_points": 90,
+              "track_id": 3,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 22.869,
+                "cy": 12.955,
+                "cz": 0.706,
+                "heading": 2.3117,
+                "height": 1.412,
+                "length": 5,
+                "width": 1.842
+              },
+              "num_points": 673,
+              "track_id": 4,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 66.367,
+                "cy": -8.5,
+                "cz": 0.873,
+                "heading": 0.2542,
+                "height": 1.746,
+                "length": 4.366,
+                "width": 2.049
+              },
+              "num_points": 121,
+              "track_id": 5,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 56.023,
+                "cy": -20.656,
+                "cz": 0.949,
+                "heading": 0.7979,
+                "height": 1.897,
+                "length": 0.727,
+                "width": 0.847
+              },
+              "num_points": 20,
+              "track_id": 6,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 31.883,
+                "cy": 35.466,
+                "cz": 0.826,
+                "heading": 2.7234,
+                "height": 1.652,
+                "length": 4.974,
+                "width": 1.899
+              },
+              "num_points": 269,
+              "track_id": 7,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 65.781,
+                "cy": 7.588,
+                "cz": 0.94,
+                "heading": -2.615,
+                "height": 1.881,
+                "length": 0.8,
+                "width": 0.717
+              },
+              "num_points": 27,
+              "track_id": 8,
+              "type": "TYPE_PEDESTRIAN"
+            },
+            {
+              "box": {
+                "cx": 18.06,
+                "cy": -27.931,
+                "cz": 0.848,
+                "heading": -1.2628,
+                "height": 1.696,
+                "length": 1.629,
+                "width": 0.886
+              },
+              "num_points": 95,
+              "track_id": 9,
+              "type": "TYPE_CYCLIST"
+            },
+            {
+              "box": {
+                "cx": 33.64,
+                "cy": 34.789,
+                "cz": 0.803,
+                "heading": -0.3362,
+                "height": 1.606,
+                "length": 4.004,
+                "width": 1.991
+              },
+              "num_points": 281,
+              "track_id": 11,
+              "type": "TYPE_VEHICLE"
+            },
+            {
+              "box": {
+                "cx": 40.275,
+                "cy": 12.455,
+                "cz": 0.825,
+                "heading": 0.5683,
+                "height": 1.65,
+                "length": 5.001,
+                "width": 1.829
+              },
+              "num_points": 264,
+              "track_id": 12,
+              "type": "TYPE_VEHICLE"
+            }
+          ]
+        }
+      ],
+      "id": "seg_0005",
+      "tags": [
+        "night",
+        "urban",
+        "low_visibility"
+      ]
+    }
+  ],
+  "schema": "pev.ground_truth.v1"
+}

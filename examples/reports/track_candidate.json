@@ -1,0 +1,78 @@
+{
+  "iou_threshold": 0.5,
+  "per_type": {
+    "TYPE_CYCLIST": {
+      "false_positives": 8,
+      "fragmentations": 0,
+      "id_switches": 0,
+      "matches": 25,
+      "misses": 12,
+      "mostly_lost": 1,
+      "mostly_tracked": 4,
+      "mota": 0.4594594595,
+      "motp": 0.6516832727,
+      "num_gt_tracks": 10,
+      "partially_tracked": 5,
+      "total_gt": 37
+    },
+    "TYPE_PEDESTRIAN": {
+      "false_positives": 19,
+      "fragmentations": 4,
+      "id_switches": 0,
+      "matches": 23,
+      "misses": 26,
+      "mostly_lost": 4,
+      "mostly_tracked": 1,
+      "mota": 0.08163265306,
+      "motp": 0.6594151432,
+      "num_gt_tracks": 15,
+      "partially_tracked": 10,
+      "total_gt": 49
+    },
+    "TYPE_SIGN": {
+      "false_positives": 22,
+      "fragmentations": 2,
+      "id_switches": 0,
+      "matches": 11,
+      "misses": 23,
+      "mostly_lost": 1,
+      "mostly_tracked": 0,
+      "mota": -0.3235294118,
+      "motp": 0.6021782359,
+      "num_gt_tracks": 9,
+      "partially_tracked": 8,
+      "total_gt": 34
+    },
+    "TYPE_VEHICLE": {
+      "false_positives": 1,
+      "fragmentations": 6,
+      "id_switches": 25,
+      "matches": 142,
+      "misses": 12,
+      "mostly_lost": 0,
+      "mostly_tracked": 33,
+      "mota": 0.7532467532,
+      "motp": 0.8127656549,
+      "num_gt_tracks": 43,
+      "partially_tracked": 10,
+      "total_gt": 154
+    }
+  },
+  "run": "candidate",
+  "schema": "pev.tracking.v1",
+  "threads": 4,
+  "total": {
+    "false_positives": 50,
+    "fragmentations": 12,
+    "id_switches": 25,
+    "matches": 201,
+    "misses": 73,
+    "mostly_lost": 6,
+    "mostly_tracked": 38,
+    "mota": 0.4598540146,
+    "motp": 0.7636582771,
+    "num_gt_tracks": 77,
+    "partially_tracked": 33,
+    "total_gt": 274
+  }
+}
